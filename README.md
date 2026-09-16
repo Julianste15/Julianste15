@@ -2,7 +2,7 @@
 
 **Ingeniero de Sistemas en formación · Full Stack Developer** — Popayán, Colombia 🇨🇴
 
-Soy estudiante de **Ingeniería de Sistemas** en la **Universidad del Cauca** y desarrollador con proyectos reales en producción, desde sistemas web y de escritorio hasta arquitecturas distribuidas. Me gusta construir software que resuelve problemas de verdad: lo he hecho para clientes reales (conciliación bancaria, e-commerce de joyería) y en entornos académicos exigentes (microservicios, streaming, sistemas embebidos).
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad del Cauca** y desarrollador con proyectos reales, desde sistemas web y de escritorio hasta arquitecturas distribuidas. Me gusta construir software que resuelve problemas de verdad: lo he hecho en proyectos para la universidad y en colaboraciones (una app de conciliación bancaria para una IPS, un e-commerce para una joyería) y en entornos académicos exigentes (microservicios, streaming, sistemas embebidos).
 
 I'm a **Systems Engineering student** and developer who builds real products: from web and desktop apps to distributed systems. Currently looking for opportunities as a Junior/Full Stack developer. 🚀
 
@@ -29,10 +29,10 @@ Sistema de **microservicios** (Spring Boot + JavaFX + PostgreSQL + RabbitMQ) par
 Plataforma de **streaming de audio distribuido y políglota** (Go + Java) que combina gRPC, RMI y RabbitMQ, con salas de escucha sincronizadas para varios usuarios. 🎵
 
 ### 3. [conciliabank](https://github.com/Julianste15/conciliabank)
-Conciliación bancaria para **Activa IPS** (cliente real): app de escritorio que cruza comprobantes CXP con extractos bancarios. Python · PySide6 · SQLite. 🏦
+Conciliación bancaria para el área contable de una **IPS** (en desarrollo): app de escritorio que cruza comprobantes CXP con extractos bancarios. Python · PySide6 · SQLite. 🏦
 
 ### 4. [VC-Style](https://github.com/Julianste15/VC-Style)
-E-commerce de **joyería** (cliente real): catálogo, reservas, pasarela Wompi, panel React y notificaciones por WhatsApp. 💍
+E-commerce para un **emprendimiento de joyería** en Popayán: catálogo con reseñas, apartados, pasarela Wompi, panel React y notificaciones por WhatsApp. 💍
 
 ### 5. [Tablero de Lotería](https://github.com/Julianste15/loteria) · [demo](https://julianste15.github.io/loteria/)
 Tablero interactivo 1-90 con guardado automático, publicado en GitHub Pages. 🎲
