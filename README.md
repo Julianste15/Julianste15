@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Julián Camacho
+# 👋 ¡Hola! Soy Julián Stevan Camacho Rosero
 
 **Ingeniero de Sistemas en formación · Full Stack Developer** — Popayán, Colombia 🇨🇴
 
@@ -12,11 +12,13 @@ I'm a **Systems Engineering student** and developer who builds real products: fr
 
 | Área | Tecnologías |
 |---|---|
-| **Backend** | Java · Spring Boot · Python · Go · Node.js · Express · Flask |
-| **Frontend** | Angular · TypeScript · React · HTML · CSS · JavaScript |
-| **Bases de datos** | PostgreSQL · SQLite · SQL Server (MVC/ORM: JPA, SQLAlchemy) |
-| **Distribuidos** | gRPC · Microservicios · RabbitMQ · WebSockets · RMI |
-| **DevOps / Otros** | Docker · Docker Compose · Git · GitHub Pages · Arduino/C++ · PowerDesigner |
+| **Backend** | Java · Spring Boot · Python · Go · Node.js · Express · NestJS · C · C++ · C# · Prolog |
+| **Frontend** | Angular · TypeScript · React · RxJS · HTML · CSS · JavaScript |
+| **Bases de datos** | PostgreSQL · MySQL · SQL Server · MongoDB · SQLite (ORM: JPA · Hibernate · TypeORM · SQLAlchemy) |
+| **Distribuidos** | gRPC · RMI · Microservicios · RabbitMQ · WebSockets · Protobuf |
+| **DevOps / Otros** | Docker · Docker Compose · Git · GitHub Pages · Maven · Keycloak |
+| **Pruebas** | JUnit · Jest · Vitest · SOLID · Patrones GoF · Arquitectura hexagonal |
+| **Idiomas** | Español (nativo) · Inglés (B2) |
 
 ## 🌟 Proyectos destacados / Featured Projects
 
@@ -24,7 +26,7 @@ I'm a **Systems Engineering student** and developer who builds real products: fr
 Sistema de **microservicios** (Spring Boot + JavaFX + PostgreSQL + RabbitMQ) para digitalizar el trámite de trabajos de grado en la Universidad del Cauca. Desplegable con Docker Compose. 🏛️
 
 ### 2. [OrpheusFlow](https://github.com/Julianste15/OrpheusFlow)
-Plataforma de **streaming de audio distribuido y políglota** (Go + Java) que combina gRPC, RMI y RabbitMQ. 🎵
+Plataforma de **streaming de audio distribuido y políglota** (Go + Java) que combina gRPC, RMI y RabbitMQ, con salas de escucha sincronizadas para varios usuarios. 🎵
 
 ### 3. [conciliabank](https://github.com/Julianste15/conciliabank)
 Conciliación bancaria para **Activa IPS** (cliente real): app de escritorio que cruza comprobantes CXP con extractos bancarios. Python · PySide6 · SQLite. 🏦
@@ -50,6 +52,7 @@ Landing page migrada a **Angular 19** con formularios reactivos y diseño glassm
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julián_Camacho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julian-camacho-inge)
 [![Gmail](https://img.shields.io/badge/Email-jscamacho%40unicauca.edu.co-red?style=flat&logo=gmail)](mailto:jscamacho@unicauca.edu.co)
+[![Teléfono](https://img.shields.io/badge/Teléfono-%2B57%20313%20606%200964-green?style=flat&logo=whatsapp)](tel:+573136060964)
 [![Portafolio](https://img.shields.io/badge/Portafolio-julianste15.github.io-black?style=flat&logo=github)](https://julianste15.github.io)
 
 > 💼 **Abierto a oportunidades laborales**: desarrollo backend/full stack, prácticas profesionales (SENA/universidad) y proyectos freelance. Escríbeme por [LinkedIn](https://www.linkedin.com/in/julian-camacho-inge).
