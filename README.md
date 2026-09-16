@@ -44,7 +44,8 @@ Landing page migrada a **Angular 19** con formularios reactivos y diseño glassm
 
 - **Ingeniería de Sistemas** — Universidad del Cauca (2021–2027)
 - **Full Stack Empresarial con Spring Boot y Angular** — Dev Senior (2025)
-- **Scrum Fundamentals Certified (SFC)** — SCRUMstudy · [verificar](https://www.scrumstudy.com/certification/verify?type=SFC&number=1186589)
+- **Scrum Fundamentals Certified (SFC)** — SCRUMstudy (2026) · [verificar](https://www.scrumstudy.com/certification/verify?type=SFC&number=1186589)
+- **Inteligencia Artificial — Nivel Avanzado** — Talento Tech Región 3 (2026)
 - **Programa Oracle Next Education (ONE) Back-end** — Alura Latam / Oracle
 - Cursos: Spring Boot 3 · Persistencia con JPA · Git y GitHub
 
