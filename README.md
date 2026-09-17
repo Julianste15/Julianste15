@@ -25,20 +25,20 @@ I'm a **Systems Engineering student** and developer who builds real products: fr
 ### 1. [ProcessManagement](https://github.com/Julianste15/ProcessManagement)
 Sistema de **microservicios** (Spring Boot + JavaFX + PostgreSQL + RabbitMQ) para digitalizar el trámite de trabajos de grado en la Universidad del Cauca. Desplegable con Docker Compose. 🏛️
 
-### 2. [OrpheusFlow](https://github.com/Julianste15/OrpheusFlow)
+### 2. [OrpheusFlow](https://github.com/Julianste15/OrpheusFlow) (2026)
 Plataforma de **streaming de audio distribuido y políglota** (Go + Java) que combina gRPC, RMI y RabbitMQ, con salas de escucha sincronizadas para varios usuarios. 🎵
 
 ### 3. [conciliabank](https://github.com/Julianste15/conciliabank)
 Conciliación bancaria para el área contable de una **IPS** (en desarrollo): app de escritorio que cruza comprobantes CXP con extractos bancarios. Python · PySide6 · SQLite. 🏦
 
-### 4. [VC-Style](https://github.com/Julianste15/VC-Style)
-E-commerce para un **emprendimiento de joyería** en Popayán: catálogo con reseñas, apartados, pasarela Wompi, panel React y notificaciones por WhatsApp. 💍
+### 4. [Piedrazul — Gestión de citas médicas](https://github.com/LauraBenavides07/ReservaCitasMedicas) (2026)
+Sistema colaborativo de gestión de citas para adultos mayores (Clínica Piedrazul, Popayán): SPA Angular 21, backend NestJS 11 con TypeORM + PostgreSQL, autenticación JWT + Keycloak, RabbitMQ, Redis y Docker Compose. WCAG AAA. 🩺
 
 ### 5. [Tablero de Lotería](https://github.com/Julianste15/loteria) · [demo](https://julianste15.github.io/loteria/)
 Tablero interactivo 1-90 con guardado automático, publicado en GitHub Pages. 🎲
 
-### 6. [Clínica Piedrazul (Angular)](https://github.com/Julianste15/piedrazul-angular)
-Landing page migrada a **Angular 19** con formularios reactivos y diseño glassmorphism. 🩺
+### 6. [Piedrazul — Landing médica y formularios](https://github.com/Julianste15/piedrazul-angular)
+Sitio de presentación de la Clínica Piedrazul: landing responsiva, servicios, equipo médico y formulario de contacto con validación. Complementa el sistema completo. 🩺
 
 ## 🎓 Educación / Certificaciones
 
